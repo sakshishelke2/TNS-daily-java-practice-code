@@ -35,6 +35,20 @@ public class DataTypeDemo {
 		    
 		    boolean bool = false;
 		    System.out.println(bool);
+
+		   // char  2 byte
+        // assigning single character literal
+        
+        char ch = 'a';
+        
+        // assigning number to char
+         
+        char ch1 = 65;
+        System.out.println(ch1);
+        
+        // assigning unicode to char
+        char var1 = '\u00A7';
+        System.out.println(var1);
 		    
 		    }
 
